@@ -1,0 +1,3 @@
+# which-design-to-use
+Measuring preferences in heterogeneous populations: Which choice design to use?
+This folder is devoted to the comparison of the efficiencies of choice designs which are often used in the literature on discrete choice experiments. We generate different types of orthogonal designs and several designs optimized for the conditional logit model and the mixed logit model without prior information and with correct and misspecified prior information using various software packages. Estimation efficiency and predictive accuracy of these designs are computed for estimating the mixed logit model in case of low and high respondent heterogeneity in the population.
